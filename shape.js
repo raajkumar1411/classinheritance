@@ -11,4 +11,4 @@ class Shape{
        }
   }
       
-    exports = Shape;
+    module.exports = Shape;

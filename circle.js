@@ -9,5 +9,5 @@ class Circle extends Shape{
     console.log('Area');
      }
   }
-  
-  module.exports = Circle;
+
+  exports = Circle;
